@@ -8,8 +8,6 @@ int main() {
 		for (int i=0; i<k; i++) {
 			scanf_s("%d", &s[i]);
 		}
-
-		printf("\n");
 		for (int a=0; a<k; a++) {
 			lotto[0]=s[a];
 			for (int b=a+1; b<k; b++) {
@@ -21,7 +19,7 @@ int main() {
 						for (int e=d+1; e<k; e++) {
 							lotto[4]=s[e];
 							for (int f=e+1; f<k; f++) {
-								lotto[5]=s[e];
+								lotto[5]=s[f];
 								for (int i=0; i<6; i++) {
 									printf("%d ", lotto[i]);
 								}
@@ -32,6 +30,7 @@ int main() {
 				}
 			}
 		}
+		printf("\n");
 	}
 
 	return 0;

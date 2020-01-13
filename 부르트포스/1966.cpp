@@ -36,7 +36,7 @@ int searchM() {
 			break;
 		}
 		else {
-			printf("\n°ª: %d\n", item[max_index]);
+			//printf("\n°ª: %d\n", item[max_index]);
 			item[max_index]=0;
 			max_pri=0;
 		}

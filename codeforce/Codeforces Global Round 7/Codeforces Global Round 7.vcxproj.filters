@@ -15,13 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="17300(패턴).cpp">
+    <ClCompile Include="a.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="17305(사탕배달).cpp">
+    <ClCompile Include="b.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="17307%28색깔 통일하기%29.cpp">
+    <ClCompile Include="c.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

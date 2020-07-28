@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="2698(인접한 비트의 개수).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1002(터렛).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9507(Generations of Tribbles).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6359(만취한 상범).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11722(가장 긴 감소하는 부분 수열).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2167(2차원 배열의 합).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2718%28타일 채우기%29 못품.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9095(1,2,3 더하기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9084%28동전%29답봄.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11052(카드구매하기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11727(2×n 타일링 2).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1932(정수 삼각형).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11048(이동하기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1010(다리 놓기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9465(스티커).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1149(RGB거리).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14501(퇴사).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11057(오르막 수).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1965(상자넣기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11055(가장 큰 증가 부분 수열).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9184(신나는 함수 실행).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2302(극장 좌석).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2293(동전 1).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1699(제곱수의 합).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11058(크리보드).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3943(헤일스톤 수열).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1254%28팰린드롬 만들기%29답봄.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9461(파도반 수열).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11051(이항 계수 2).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2410%282의 멱수의 합%29동전과 같은 풀이.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2579(계단 오르기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2193(이친수).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1904(01타일).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11726(2×n 타일링).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2133(타일 채우기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
